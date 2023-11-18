@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0x220volt  
-- 👀 I’m interested in dApps 
+- 👀 I’m interested in dApps  
 - 🌱 I’m currently learning DAO 
 - 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ...  
